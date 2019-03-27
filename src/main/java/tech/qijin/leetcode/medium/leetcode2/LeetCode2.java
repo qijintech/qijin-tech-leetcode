@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * @author michealyang
- * @date 2019/3/21
+// * @date 2019/3/21
  * 开始做眼保健操：←_← ↑_↑ →_→ ↓_↓
  **/
 @Slf4j
@@ -23,11 +23,11 @@ public class LeetCode2 {
 
     static class Solution {
         /**
-         * <p>
+         * <pre>
          * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
          * Output: 7 -> 0 -> 8
          * Explanation: 342 + 465 = 807.
-         * </p>
+         * </pre>
          *
          * @param l1
          * @param l2
